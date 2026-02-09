@@ -7,6 +7,7 @@ export default function TabLayout() {
       screenOptions={{
         headerShown: false,
       }}>
+      <Tabs.Screen name="index" options={{ href: null }} />
       <Tabs.Screen
         name="map"
         options={{
