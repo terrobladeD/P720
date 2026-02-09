@@ -1,9 +1,9 @@
 import { StyleSheet, Text, View } from 'react-native';
 
-export default function MapPage() {
+export default function FriendsPage() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Map Page</Text>
+      <Text style={styles.title}>Friends Page</Text>
       <Text style={styles.subtitle}>Placeholder</Text>
     </View>
   );
