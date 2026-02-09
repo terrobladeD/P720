@@ -8,7 +8,7 @@ export default function TabLayout() {
         headerShown: false,
       }}>
       <Tabs.Screen
-        name="index"
+        name="map"
         options={{
           title: 'Map',
           tabBarIcon: ({ color, size }) => <Ionicons name="map-outline" color={color} size={size} />,
